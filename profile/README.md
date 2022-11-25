@@ -4,6 +4,8 @@
 
 ### THE EDEN
 
+![TheEdenBack](https://github.com/VOKA-AI/.github/blob/main/assets/TheEdenBack.png)
+
 The Eden is a Web3.0 exclusive Live-Streaming service platform which focusing on decentralized games and AMA interviews on ETH and Polygon network. The project will provide 3D NFT avatar generate technology from 2D PFP NFT by using our AI algorithm, and be able to live streaming with the 3D avatars. Different from previous live broadcasts, The Eden creates the opportunity for the interaction between viewers and anchors in the same space through Metaverse space scenes. GameFi providers and AMA KOLs can open their own DAO to promo their own channel within the platform.
 
 The Eden - Web3.0 exclusive Live-Streaming service platform

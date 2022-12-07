@@ -55,7 +55,7 @@ The generated avatar can be used as secondary creation NFT, and can also be used
 Lack of usage scenarios is a bottleneck that restricts the development of NFT.
 Using NFT to generate avatar, used in live streaming and other fields like video chat with friends can promote the development of NFT.
 
-As a Web3.0 platform, ***The Eden*** will issue its owen tokens.
+As a Web3.0 platform, ***The Eden*** will issue its own tokens.
 
 ## Mission
 
@@ -69,7 +69,10 @@ but also create the opportunity for the second social networking between audienc
 Therefore, our goal is to build a Web3.0 exclusive Live-Streaming service platform.
 
 ## Service
-
+AMA Interview
+GameFi Boardcasting
+Crypto/Defi Eduction
+VTuber and other Entertainments
 
 ## Related Repos
 * [video-streaming website front-end](https://github.com/VOKA-AI/live-web)

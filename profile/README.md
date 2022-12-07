@@ -24,6 +24,8 @@ Media data delivery of the platform was based on IPFS. The process is as follows
 3. Subscribers get stream data hash from server
 4. Subscribers use data hash to get live stream from IPFS.
 
+![architecture](https://github.com/VOKA-AI/.github/blob/edit/assets/architecture.jpg)
+
 Our servers run both IPFS and our service, responsible for uploading data to IPFS, reponsing to the request of stream data hash from subscribers, as well as identifying authentication.
 
 The advantages of IPFS based media delivery system are as follows:

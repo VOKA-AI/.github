@@ -33,6 +33,7 @@ Our servers run both IPFS and our service, responsible for uploading data quickl
 
 <div align="center">
   <img src=https://github.com/VOKA-AI/.github/blob/main/assets/network.jpg width=80% align="center"/>
+  <p>Media delivery network</p>
 </div>
 
 The advantages of IPFS based media delivery system are as follows:

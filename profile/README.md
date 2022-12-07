@@ -6,7 +6,11 @@
 
 ### THE EDEN
 
-![TheEdenBack](https://github.com/VOKA-AI/.github/blob/main/assets/TheEdenBack.png)
+<div align="center">
+<img src=https://github.com/VOKA-AI/.github/blob/main/assets/TheEdenBack.png width=80% />
+</div>
+
+ 
 
 THE Eden is a decentralized live streaming platform for web3.0. 
 which focusing on decentralized games and AMA interviews on ETH and Polygon network. 
@@ -17,7 +21,11 @@ Different from previous live broadcasts, The Eden creates the opportunity for in
 
 GameFi providers and AMA KOLs can open their own DAO to promo their own channel within the platform.
 
-![architecture](https://github.com/VOKA-AI/.github/blob/edit/assets/architecture.jpg)
+<div align="center">
+  <img src=https://github.com/VOKA-AI/.github/blob/edit/assets/architecture.jpg width=80% align="center"/>
+</div>
+
+ 
 
 Media data delivery of the platform was based on IPFS. The process is as follows:
 
@@ -29,7 +37,11 @@ Media data delivery of the platform was based on IPFS. The process is as follows
 
 Our servers run both IPFS and our service, responsible for uploading data to IPFS, reponsing to the request of stream data hash from subscribers, as well as identifying authentication.
 
-![network](https://github.com/VOKA-AI/.github/blob/edit/assets/network.jpg)
+<div align="center">
+  <img src=https://github.com/VOKA-AI/.github/blob/edit/assets/network.jpg width=80% align="center"/>
+</div>
+
+ 
 
 The advantages of IPFS based media delivery system are as follows:
 1. Suitable to Web3, has the advantages of Web3

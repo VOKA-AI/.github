@@ -10,8 +10,8 @@
 <img src=https://github.com/VOKA-AI/.github/blob/main/assets/TheEdenBack.png width=80% />
 </div>
 
-THE Eden is a decentralized live streaming platform for web3.0. 
-which focusing on decentralized games and AMA interviews on ETH and Polygon network. 
+***The Eden*** is a decentralized live streaming platform for web3.0. 
+which focusing on decentralized games and AMA interviews on [ETH](https://ethereum.org/en/) and Polygon network. 
 
 The project will provide 3D NFT avatar generating technology from 2D PFP NFT by using [our AI algorithm](https://github.com/VOKA-AI/3DAvatarGenerator), and be able to live stream with the 3D avatars. 
 Different from previous live broadcasts, The Eden creates the opportunity for interaction between viewers and anchors in the same space through Metaverse space scenes. 
@@ -19,6 +19,7 @@ GameFi providers and AMA KOLs can open their own DAO to promo their own channel 
 
 <div align="center">
   <img src=https://github.com/VOKA-AI/.github/blob/edit/assets/architecture.jpg width=80% align="center"/>
+  <p>Architecture</p>
 </div>
 
  
@@ -42,6 +43,15 @@ The advantages of IPFS based media delivery system are as follows:
 3. Save bandwidth cost.
 4. Cannot be controlled by one authority or government.
 5. More secure.
+
+
+As mentioned above, ***The Eden*** provide 3D avatar generation services, 
+which can generate 3D models from 2D NFT pictures. 
+The generated avatar can be used as secondary creation NFT, and can also be used in live streaming as AR mask.
+
+<div align="center">
+  <img src=https://github.com/VOKA-AI/.github/blob/edit/assets/ARMask1.png width="300"/><img src=https://github.com/VOKA-AI/.github/blob/edit/assets/ARMask2.png width="300"/>
+</div>
 
 #### Mission
 

@@ -46,7 +46,7 @@ The advantages of IPFS based media delivery system are as follows:
 
 As mentioned above, ***The Eden*** provide 3D avatar generation services, 
 which can generate 3D models from 2D NFT pictures. 
-The generated avatar can be used as secondary creation NFT, and can also be used in live streaming as AR mask.
+The generated avatar can be used as secondary creation NFT, and can also be used in live streaming as [AR mask](https://github.com/VOKA-AI/react-face-mask).
 
 <div align="center">
   <img src=https://github.com/VOKA-AI/.github/blob/main/assets/ARMask1.png width="300"/><img src=https://github.com/VOKA-AI/.github/blob/main/assets/ARMask2.png width="300"/>

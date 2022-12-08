@@ -52,6 +52,10 @@ The generated avatar can be used as secondary creation NFT, and can also be used
   <img src=https://github.com/VOKA-AI/.github/blob/main/assets/ARMask1.png width="300"/><img src=https://github.com/VOKA-AI/.github/blob/main/assets/ARMask2.png width="300"/>
 </div>
 
+
+https://user-images.githubusercontent.com/19359257/206367690-ee1ba05c-1a6b-4a89-84a2-1aa091141a09.mov
+
+
 Lack of usage scenarios is a bottleneck that restricts the development of NFT.
 Using NFT to generate avatar, used in live streaming and other fields like video chat with friends can promote the development of NFT.
 

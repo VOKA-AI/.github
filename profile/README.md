@@ -23,11 +23,15 @@ GameFi providers and AMA KOLs can open their own DAO to promo their own channel 
  
 
 Media data delivery of the platform was based on [IPFS](https://ipfs.tech/). The process is as follows:
+<div align="center">
+  <img src=https://github.com/VOKA-AI/.github/blob/edit2/assets/process.jpg width=80% align="center"/>
+  <p>process</p>
+</div>
 
-1. Creator makes videos, and sends them to our server over [socket.io](https://github.com/socketio/socket.io).
-2. The server uploads data to IPFS network.
-3. Subscribers get stream data hash from server.
-4. Subscribers use data hash to get live stream from IPFS.
+1. KOLs makes videos on the client, including fetching NFT picture from blockchain, generate 3D avatar, and used as face mask, then send them to ***The Eden*** server over [socket.io](https://github.com/socketio/socket.io).
+2. ***The Eden*** server will do some pre-processing, such as encoding, then uploading it to IPFS network.
+3. Audiences using client to interact with ***The Eden***, geting data hash from server, combine with *smart contract*, audiences can pay to subscribe, send virtual gifts to KOLs.
+4. Audiences use data hash to get live stream from IPFS.
 
 Our servers run both IPFS and our service, responsible for uploading data quickly to IPFS, reponsing to the request of data hash from subscribers, as well as identifying authentication.
 

@@ -127,6 +127,13 @@ Compared with the traditional live-streaming communication, the new type of broa
 but also create the opportunity for the second social networking between audiences. 
 Therefore, our goal is to build a Web3.0 exclusive Live-Streaming service platform.
 
+## Features
+
+* Decentralized live-streaming
+* User data self-owned
+* Dual Tokenomic
+* Multi-Platform
+
 ## Service
 
 * AMA Interview.

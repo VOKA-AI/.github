@@ -24,7 +24,7 @@ GameFi providers and AMA KOLs can open their own DAO to promo their own channel 
 
 Media data delivery of the platform was based on [IPFS](https://ipfs.tech/). The process is as follows:
 <div align="center">
-  <img src=https://github.com/VOKA-AI/.github/blob/edit2/assets/process.jpg width=80% align="center"/>
+  <img src=https://github.com/VOKA-AI/.github/blob/main/assets/process.jpg width=80% align="center"/>
   <p>process</p>
 </div>
 

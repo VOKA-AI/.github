@@ -105,7 +105,7 @@ In order to level up the NFT, users have some method to gain Activity:
 5.	EDT – EDC Swap: Exchanged EDT to EDC. Get every 1 EDC to gain 1 Activity.  
 
 <div align="center">
-  <img src=https://user-images.githubusercontent.com/20713531/206182941-ab894eb3-d38c-4bb1-8dcc-317e1eedbf83.png width=80% align="center"/>
+  <img src=https://github.com/VOKA-AI/.github/blob/main/assets/token.png width=80% align="center"/>
   <p>The Level of NFT 3D face mask has different factors</p>
 </div>
 

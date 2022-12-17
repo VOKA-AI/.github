@@ -166,8 +166,6 @@ Therefore, our goal is to build a Web3.0 exclusive Live-Streaming service platfo
 * VTuber and other Entertainments.
 
 ## Related Repos
-* [video-streaming website front-end](https://github.com/VOKA-AI/live-web)
-* [video-streaming website back-end](https://github.com/VOKA-AI/live-backend)
 * [3D avatar AR Mask](https://github.com/VOKA-AI/react-face-mask)
 * [3D avatar generating AI](https://github.com/VOKA-AI/3DAvatarGenerator)
 * [3D avatar generating website](https://github.com/VOKA-AI/AIAvatarGenerator)
